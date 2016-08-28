@@ -46,7 +46,7 @@ module.exports.connections = {
     host: 'dev-db.ckbjqralfcud.us-east-1.rds.amazonaws.com',
     port: '3306',
     user: 'admin', //optional
-    password: 'Greenfr0g1', //optional
+    password: 'XXXXXXX', //optional
     database: 'mysqldev' //optional
   },
   /***************************************************************************
